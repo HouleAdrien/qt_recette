@@ -1,0 +1,41 @@
+<map id="MainWindow::loadUiRecette" name="MainWindow::loadUiRecette">
+<area shape="rect" id="node1" title="permet creer le qwidget qui affiche la recette" alt="" coords="5,923,191,949"/>
+<area shape="rect" id="node2" href="$class_main_window.html#a4a5953c46cfb576f7ed29b0dd290e306" title="fonction permettant d&#39;afficher les différentes du fichier recette .json" alt="" coords="239,923,429,949"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a584f5b2665fb6f5bd91d6ce93d42f27d" title="permet de changer la recette affichée" alt="" coords="493,5,678,32"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a07d102606b6d82db66658335c96b227c" title="créer le qwidget qui affiche les étapes d&#39;instructions" alt="" coords="482,237,689,264"/>
+<area shape="rect" id="node7" href="$classrecette_stock.html#ab96d1f202c7d782c2dc8024fbc1d2c32" title="mutateur du nombre de pages (permet de modifier le nombre de pages)" alt="" coords="1017,324,1196,351"/>
+<area shape="rect" id="node11" href="$classrecette_stock.html#a879340a86205c8ecea67aeb432ab9eb1" title="mutateur des instructions (permet de modifier les inscructions)" alt="" coords="1012,157,1201,184"/>
+<area shape="rect" id="node15" href="$classrecette_stock.html#a0b919917da393ad6cd765e8dc972c945" title="accesseur de la catégorie (permet de récupérer la catégorie)" alt="" coords="497,441,674,468"/>
+<area shape="rect" id="node16" href="$classrecette_stock.html#a8a57d31287d061cef6b4f323d67c1f42" title="accesseur du temp de cuisson (permet de récuperer le temp de cuisson )" alt="" coords="489,492,682,519"/>
+<area shape="rect" id="node17" href="$classrecette_stock.html#a6021cd0dcde24e036fd8558acd35c07a" title="accesseur de la description (permet de récupérer la description)" alt="" coords="492,543,679,569"/>
+<area shape="rect" id="node18" href="$classrecette_stock.html#a034d1a0fe0ef63174d0fe8ee11a65737" title="accesseur de l&#39;image (permet de récuperer l&#39;image)" alt="" coords="514,593,657,620"/>
+<area shape="rect" id="node19" href="$classrecette_stock.html#a5950b279335132401c219587d12b4fe8" title="accesseur des ingredients (permet de récupérer les ingredients)" alt="" coords="493,644,678,671"/>
+<area shape="rect" id="node20" href="$classrecette_stock.html#a17855ec59fa29781e969fcc84289c61b" title="accesseur des mots clé(permet de récupérer les mots clé)" alt="" coords="499,695,671,721"/>
+<area shape="rect" id="node21" href="$classrecette_stock.html#a49921e2dd0167d12ae6de125a0802b46" title="accesseur du nombre de personne (permet de récupérer le nombre de personne)" alt="" coords="504,745,667,772"/>
+<area shape="rect" id="node22" href="$classrecette_stock.html#a6f71e2f880f3794f36aa1a3ad0f9b95d" title="accesseur du nom (permet de récuperer le nom)" alt="" coords="511,796,660,823"/>
+<area shape="rect" id="node23" href="$classrecette_stock.html#aee27b2d8600d7429a132b45beeaf24d0" title="accesseur du temps de prépration (permet de récuperer le temps de prépartion)" alt="" coords="477,847,693,873"/>
+<area shape="rect" id="node24" href="$classrecette_stock.html#a517fd78e4cef5733627496c51a026560" title="accesseur du temp total (permet de récuperer le temp total)" alt="" coords="496,897,675,924"/>
+<area shape="rect" id="node25" href="$classrecette_stock.html#a341104d2295fa1de6a7b8fdf41063bdd" title="accesseur de l&#39;url (permet de récupérer l&#39;url)" alt="" coords="516,948,655,975"/>
+<area shape="rect" id="node26" href="$class_main_window.html#ac340b08e1e0d7e4ec3e092b7f5da4059" title="permet de charger l&#39;image de la recette" alt="" coords="504,999,667,1025"/>
+<area shape="rect" id="node28" href="$classrecette_stock.html#acdc965c5766a5edfffe1cb4addea7e80" title="mutateur de la catégorie (permet de modifier la catégorie)" alt="" coords="497,1049,674,1076"/>
+<area shape="rect" id="node29" href="$classrecette_stock.html#a922eddb66fd2b34903428449fc27fab0" title="mutateur du temp de cuisson (permet de modifier le temp de cuisson )" alt="" coords="489,1100,682,1127"/>
+<area shape="rect" id="node30" href="$classrecette_stock.html#ae6f86aa4112fae8d7f73ac1ec82734fc" title="mutateur de la description (permet de modifier la description)" alt="" coords="492,1151,679,1177"/>
+<area shape="rect" id="node31" href="$classrecette_stock.html#a60e5d6f62676df64881e3e3d1bc1b774" title="mutateur de l&#39;image (permet de modifier l&#39;image)" alt="" coords="514,1201,657,1228"/>
+<area shape="rect" id="node32" href="$classrecette_stock.html#aad58a6c481fc2ff3a03f93786730998a" title="mutateur des ingredients (permet de modifer les ingredients)" alt="" coords="493,1252,678,1279"/>
+<area shape="rect" id="node33" href="$classrecette_stock.html#a29cf9d03a639139877792de9aad4d75e" title="mutateur des mots clé(permet de modifier les mots clé)" alt="" coords="499,1303,671,1329"/>
+<area shape="rect" id="node34" href="$classrecette_stock.html#a162f5788c997d7a98eebba1735cfba70" title="mutateur des nombres d&#39;instructions (permet de modifier le nombre d&#39;instructions)" alt="" coords="483,1353,688,1380"/>
+<area shape="rect" id="node35" href="$classrecette_stock.html#a68c774c91fcf17d0ef44fbf6ea442e72" title="mutateur du nombre de personne (permet de modifier le nombre de personne)" alt="" coords="504,1404,667,1431"/>
+<area shape="rect" id="node36" href="$classrecette_stock.html#a901f61c791efc6a80298a195063b9ac1" title="mutateur du nom (permet de modifier le nom)" alt="" coords="511,1455,660,1481"/>
+<area shape="rect" id="node37" href="$classrecette_stock.html#a23e4ae633725e381c4828999761070b1" title="mutateur du temps de prépration (permet de modifier le temps de prépartion)" alt="" coords="477,1505,693,1532"/>
+<area shape="rect" id="node38" href="$classrecette_stock.html#a5c5e6a3a6c9c3bec8ec5f41bc6566959" title="mutateur du temp total (permet de modifier le temp total)" alt="" coords="496,1556,675,1583"/>
+<area shape="rect" id="node39" href="$classrecette_stock.html#aa781eec14e596861a4333587d51f65d7" title="mutateur de l&#39;url (permet de modifier l&#39;url)" alt="" coords="516,1607,655,1633"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a217779ab28af279895634c74e7272190" title="permet de décrémenté le numéro de la page et passer à l&#39;instruction précédente" alt="" coords="752,259,945,301"/>
+<area shape="rect" id="node8" href="$class_main_window.html#a99f6402db13f8a965a5e1d246e804384" title="permet de charger la dernière étape et est appelé par etatFinal() lors de l&#39;entrée en état dernier" alt="" coords="743,107,954,133"/>
+<area shape="rect" id="node12" href="$class_main_window.html#a6ea621bfd504c11b5892eb14689ce01d" title="permet d&#39;incrémenté le numéro de la page et passer à l&#39;instruction suivante" alt="" coords="754,325,943,366"/>
+<area shape="rect" id="node13" href="$class_main_window.html#a1693416a27f7e54dee8a54218f532427" title="permet de changer le texte de l&#39;étape(texte de la page)" alt="" coords="751,157,946,184"/>
+<area shape="rect" id="node14" href="$class_main_window.html#aee4a271437867174969e1a83a9244aeb" title="permet de charger la première étape et est appélé par etatPremier() lors de l&#39;entrée en état premier" alt="" coords="741,208,956,235"/>
+<area shape="rect" id="node6" href="$classrecette_stock.html#a12811c715e32f14891c94e58446fca8c" title="accesseur du nombre de pages (permet de récuperer le nombre de pages)" alt="" coords="1017,267,1196,293"/>
+<area shape="rect" id="node9" href="$classrecette_stock.html#a064dfb7281e85ad5590335abee1e3b19" title="accesseur des instructions (permet de récupérer les inscructions)" alt="" coords="1012,208,1201,235"/>
+<area shape="rect" id="node10" href="$classrecette_stock.html#ae1de2b83d733ef02de63468906347c66" title="accesseur des nombres d&#39;instructions (permet de récuperer le nombre d&#39;instructions)" alt="" coords="1004,107,1209,133"/>
+<area shape="rect" id="node27" href="$class_file_downloader.html#a757786f213be41cb7edc21229cf60d68" title="Envoie l&#39;image téléchargée." alt="" coords="742,999,955,1025"/>
+</map>

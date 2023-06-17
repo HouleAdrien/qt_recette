@@ -1,0 +1,7 @@
+<map id="MainWindow::loadInstructions" name="MainWindow::loadInstructions">
+<area shape="rect" id="node1" title="permet de changer le texte de l&#39;étape(texte de la page)" alt="" coords="5,81,200,108"/>
+<area shape="rect" id="node2" href="$classrecette_stock.html#a064dfb7281e85ad5590335abee1e3b19" title="accesseur des instructions (permet de récupérer les inscructions)" alt="" coords="256,5,445,32"/>
+<area shape="rect" id="node3" href="$classrecette_stock.html#ae1de2b83d733ef02de63468906347c66" title="accesseur des nombres d&#39;instructions (permet de récuperer le nombre d&#39;instructions)" alt="" coords="248,56,453,83"/>
+<area shape="rect" id="node4" href="$classrecette_stock.html#a12811c715e32f14891c94e58446fca8c" title="accesseur du nombre de pages (permet de récuperer le nombre de pages)" alt="" coords="261,107,440,133"/>
+<area shape="rect" id="node5" href="$classrecette_stock.html#a879340a86205c8ecea67aeb432ab9eb1" title="mutateur des instructions (permet de modifier les inscructions)" alt="" coords="256,157,445,184"/>
+</map>

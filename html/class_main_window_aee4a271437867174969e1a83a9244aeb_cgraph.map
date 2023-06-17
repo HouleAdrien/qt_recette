@@ -1,0 +1,6 @@
+<map id="MainWindow::premiereInstruction" name="MainWindow::premiereInstruction">
+<area shape="rect" id="node1" title="permet de charger la première étape et est appélé par etatPremier() lors de l&#39;entrée en état premier" alt="" coords="5,56,220,83"/>
+<area shape="rect" id="node2" href="$classrecette_stock.html#a064dfb7281e85ad5590335abee1e3b19" title="accesseur des instructions (permet de récupérer les inscructions)" alt="" coords="268,5,457,32"/>
+<area shape="rect" id="node3" href="$classrecette_stock.html#a879340a86205c8ecea67aeb432ab9eb1" title="mutateur des instructions (permet de modifier les inscructions)" alt="" coords="268,56,457,83"/>
+<area shape="rect" id="node4" href="$classrecette_stock.html#ab96d1f202c7d782c2dc8024fbc1d2c32" title="mutateur du nombre de pages (permet de modifier le nombre de pages)" alt="" coords="273,107,452,133"/>
+</map>

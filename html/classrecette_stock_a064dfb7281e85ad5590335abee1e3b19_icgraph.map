@@ -1,0 +1,10 @@
+<map id="recetteStock::getInstructions" name="recetteStock::getInstructions">
+<area shape="rect" id="node1" title="accesseur des instructions (permet de récupérer les inscructions)" alt="" coords="1221,56,1411,83"/>
+<area shape="rect" id="node2" href="$class_main_window.html#a99f6402db13f8a965a5e1d246e804384" title="permet de charger la dernière étape et est appelé par etatFinal() lors de l&#39;entrée en état dernier" alt="" coords="961,5,1171,32"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a1693416a27f7e54dee8a54218f532427" title="permet de changer le texte de l&#39;étape(texte de la page)" alt="" coords="969,56,1163,83"/>
+<area shape="rect" id="node8" href="$class_main_window.html#aee4a271437867174969e1a83a9244aeb" title="permet de charger la première étape et est appélé par etatPremier() lors de l&#39;entrée en état premier" alt="" coords="959,107,1173,133"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a07d102606b6d82db66658335c96b227c" title="créer le qwidget qui affiche les étapes d&#39;instructions" alt="" coords="704,56,911,83"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a4a5953c46cfb576f7ed29b0dd290e306" title="fonction permettant d&#39;afficher les différentes du fichier recette .json" alt="" coords="465,56,656,83"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a20483666338ae44a9b6e8a412a682512" title="permet creer le qwidget qui affiche la recette" alt="" coords="232,56,417,83"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="constructeur de mainwindow" alt="" coords="5,56,184,83"/>
+</map>

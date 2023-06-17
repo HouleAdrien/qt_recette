@@ -1,0 +1,13 @@
+<map id="MainWindow::chargerInstruction" name="MainWindow::chargerInstruction">
+<area shape="rect" id="node1" title="créer le qwidget qui affiche les étapes d&#39;instructions" alt="" coords="5,137,212,163"/>
+<area shape="rect" id="node2" href="$class_main_window.html#a217779ab28af279895634c74e7272190" title="permet de décrémenté le numéro de la page et passer à l&#39;instruction précédente" alt="" coords="271,71,464,112"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a99f6402db13f8a965a5e1d246e804384" title="permet de charger la dernière étape et est appelé par etatFinal() lors de l&#39;entrée en état dernier" alt="" coords="262,238,473,265"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a6ea621bfd504c11b5892eb14689ce01d" title="permet d&#39;incrémenté le numéro de la page et passer à l&#39;instruction suivante" alt="" coords="273,5,462,47"/>
+<area shape="rect" id="node10" href="$class_main_window.html#a1693416a27f7e54dee8a54218f532427" title="permet de changer le texte de l&#39;étape(texte de la page)" alt="" coords="270,187,465,214"/>
+<area shape="rect" id="node11" href="$class_main_window.html#aee4a271437867174969e1a83a9244aeb" title="permet de charger la première étape et est appélé par etatPremier() lors de l&#39;entrée en état premier" alt="" coords="260,137,475,163"/>
+<area shape="rect" id="node3" href="$classrecette_stock.html#a12811c715e32f14891c94e58446fca8c" title="accesseur du nombre de pages (permet de récuperer le nombre de pages)" alt="" coords="536,82,715,109"/>
+<area shape="rect" id="node4" href="$classrecette_stock.html#ab96d1f202c7d782c2dc8024fbc1d2c32" title="mutateur du nombre de pages (permet de modifier le nombre de pages)" alt="" coords="536,31,715,58"/>
+<area shape="rect" id="node6" href="$classrecette_stock.html#a064dfb7281e85ad5590335abee1e3b19" title="accesseur des instructions (permet de récupérer les inscructions)" alt="" coords="531,137,720,163"/>
+<area shape="rect" id="node7" href="$classrecette_stock.html#ae1de2b83d733ef02de63468906347c66" title="accesseur des nombres d&#39;instructions (permet de récuperer le nombre d&#39;instructions)" alt="" coords="523,238,728,265"/>
+<area shape="rect" id="node8" href="$classrecette_stock.html#a879340a86205c8ecea67aeb432ab9eb1" title="mutateur des instructions (permet de modifier les inscructions)" alt="" coords="531,187,720,214"/>
+</map>

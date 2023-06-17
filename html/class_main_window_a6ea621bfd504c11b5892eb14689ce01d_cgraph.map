@@ -1,0 +1,5 @@
+<map id="MainWindow::incrementationNumPage" name="MainWindow::incrementationNumPage">
+<area shape="rect" id="node1" title="permet d&#39;incrémenté le numéro de la page et passer à l&#39;instruction suivante" alt="" coords="5,23,195,65"/>
+<area shape="rect" id="node2" href="$classrecette_stock.html#a12811c715e32f14891c94e58446fca8c" title="accesseur du nombre de pages (permet de récuperer le nombre de pages)" alt="" coords="243,5,421,32"/>
+<area shape="rect" id="node3" href="$classrecette_stock.html#ab96d1f202c7d782c2dc8024fbc1d2c32" title="mutateur du nombre de pages (permet de modifier le nombre de pages)" alt="" coords="243,56,421,83"/>
+</map>

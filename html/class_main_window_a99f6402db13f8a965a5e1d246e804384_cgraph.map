@@ -1,0 +1,6 @@
+<map id="MainWindow::derniereInstruction" name="MainWindow::derniereInstruction">
+<area shape="rect" id="node1" title="permet de charger la dernière étape et est appelé par etatFinal() lors de l&#39;entrée en état dernier" alt="" coords="5,56,216,83"/>
+<area shape="rect" id="node2" href="$classrecette_stock.html#a064dfb7281e85ad5590335abee1e3b19" title="accesseur des instructions (permet de récupérer les inscructions)" alt="" coords="272,5,461,32"/>
+<area shape="rect" id="node3" href="$classrecette_stock.html#ae1de2b83d733ef02de63468906347c66" title="accesseur des nombres d&#39;instructions (permet de récuperer le nombre d&#39;instructions)" alt="" coords="264,56,469,83"/>
+<area shape="rect" id="node4" href="$classrecette_stock.html#a879340a86205c8ecea67aeb432ab9eb1" title="mutateur des instructions (permet de modifier les inscructions)" alt="" coords="272,107,461,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MainWindow::loadImage" name="MainWindow::loadImage">
+<area shape="rect" id="node1" title="permet de charger l&#39;image de la recette" alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$class_file_downloader.html#a757786f213be41cb7edc21229cf60d68" title="Envoie l&#39;image téléchargée." alt="" coords="216,5,429,32"/>
+</map>

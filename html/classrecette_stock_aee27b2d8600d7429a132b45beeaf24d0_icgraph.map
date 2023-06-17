@@ -1,0 +1,6 @@
+<map id="recetteStock::getPreparationTime" name="recetteStock::getPreparationTime">
+<area shape="rect" id="node1" title="accesseur du temps de prépration (permet de récuperer le temps de prépartion)" alt="" coords="704,5,920,32"/>
+<area shape="rect" id="node2" href="$class_main_window.html#a4a5953c46cfb576f7ed29b0dd290e306" title="fonction permettant d&#39;afficher les différentes du fichier recette .json" alt="" coords="465,5,656,32"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a20483666338ae44a9b6e8a412a682512" title="permet creer le qwidget qui affiche la recette" alt="" coords="232,5,417,32"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="constructeur de mainwindow" alt="" coords="5,5,184,32"/>
+</map>

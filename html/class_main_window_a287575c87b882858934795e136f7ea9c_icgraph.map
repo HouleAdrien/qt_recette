@@ -1,0 +1,5 @@
+<map id="MainWindow::loadRecette" name="MainWindow::loadRecette">
+<area shape="rect" id="node1" title="permet de charger la recette" alt="" coords="440,31,613,57"/>
+<area shape="rect" id="node2" href="$class_main_window.html#ab44e0c2fb8553ba478912c0a8a793071" title="permet d&#39;ouvrir une boite de dialogue afin de lire un fichier json de recette" alt="" coords="232,5,392,32"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="constructeur de mainwindow" alt="" coords="5,31,184,57"/>
+</map>

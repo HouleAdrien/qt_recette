@@ -1,0 +1,5 @@
+<map id="MainWindow::decrementationNumPage" name="MainWindow::decrementationNumPage">
+<area shape="rect" id="node1" title="permet de décrémenté le numéro de la page et passer à l&#39;instruction précédente" alt="" coords="5,23,199,65"/>
+<area shape="rect" id="node2" href="$classrecette_stock.html#a12811c715e32f14891c94e58446fca8c" title="accesseur du nombre de pages (permet de récuperer le nombre de pages)" alt="" coords="247,5,425,32"/>
+<area shape="rect" id="node3" href="$classrecette_stock.html#ab96d1f202c7d782c2dc8024fbc1d2c32" title="mutateur du nombre de pages (permet de modifier le nombre de pages)" alt="" coords="247,56,425,83"/>
+</map>

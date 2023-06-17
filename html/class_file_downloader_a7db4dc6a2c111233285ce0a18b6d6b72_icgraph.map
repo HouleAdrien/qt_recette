@@ -1,0 +1,5 @@
+<map id="FileDownloader::downloaded" name="FileDownloader::downloaded">
+<area shape="rect" id="node1" title="signal qui permet de savoir quand le téléchargement du média est terminé" alt="" coords="512,5,699,32"/>
+<area shape="rect" id="node2" href="$class_file_downloader.html#ab611510b35d110b16108d931bc16d195" title="Permet de stocker le média téléchargé" alt="" coords="260,5,464,32"/>
+<area shape="rect" id="node3" href="$class_file_downloader.html#ad1a2da7b5cd2946b022598a134a6fb0d" title="Constructeur de l&#39;instance qui permet de télécharger un média." alt="" coords="5,5,212,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="recetteStock::setNumPage" name="recetteStock::setNumPage">
+<area shape="rect" id="node1" title="mutateur du nombre de pages (permet de modifier le nombre de pages)" alt="" coords="1221,79,1400,106"/>
+<area shape="rect" id="node2" href="$class_main_window.html#a4a5953c46cfb576f7ed29b0dd290e306" title="fonction permettant d&#39;afficher les différentes du fichier recette .json" alt="" coords="465,49,656,75"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a217779ab28af279895634c74e7272190" title="permet de décrémenté le numéro de la page et passer à l&#39;instruction précédente" alt="" coords="969,39,1163,80"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a6ea621bfd504c11b5892eb14689ce01d" title="permet d&#39;incrémenté le numéro de la page et passer à l&#39;instruction suivante" alt="" coords="971,104,1161,145"/>
+<area shape="rect" id="node8" href="$class_main_window.html#aee4a271437867174969e1a83a9244aeb" title="permet de charger la première étape et est appélé par etatPremier() lors de l&#39;entrée en état premier" alt="" coords="959,170,1173,197"/>
+<area shape="rect" id="node3" href="$class_main_window.html#a20483666338ae44a9b6e8a412a682512" title="permet creer le qwidget qui affiche la recette" alt="" coords="232,49,417,75"/>
+<area shape="rect" id="node4" href="$class_main_window.html#a996c5a2b6f77944776856f08ec30858d" title="constructeur de mainwindow" alt="" coords="5,49,184,75"/>
+<area shape="rect" id="node6" href="$class_main_window.html#a07d102606b6d82db66658335c96b227c" title="créer le qwidget qui affiche les étapes d&#39;instructions" alt="" coords="704,78,911,105"/>
+</map>
